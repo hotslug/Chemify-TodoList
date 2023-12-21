@@ -3,4 +3,5 @@
 # Chemify - Assessment - Todoify
 
 - Download and run "yarn"
+- "yarn run dev"
 - http://localhost:5173/
